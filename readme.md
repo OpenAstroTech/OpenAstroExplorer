@@ -54,6 +54,7 @@ Hex Nuts:
 - 4x Shim, 1mm thick, 5x10, DIN988
 - 6x Neodymium Magnets, round, 8x2mm
 - ~80cm GT2 belt, 6mm
+- 2x closed GT2 belt, 6mm, 142mm/71 Teeth
 
 ---
 
