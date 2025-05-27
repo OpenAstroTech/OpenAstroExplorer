@@ -26,7 +26,9 @@ Specs
 ### Links
 
 [BOM](https://docs.google.com/spreadsheets/d/1VRqLXc0toShZgP3rCiKZRFy2YImOhnwUEP0JS75wGOw/edit?usp=sharing)
+
 [Printed Parts](https://docs.google.com/spreadsheets/d/12bo7vfit7GZXNui0Y1q4IBbTn9S2-HQub6Z6bK9Nim4/edit?usp=sharing)
+
 [Guides](https://wiki.openastrotech.com/en/OpenAstroExplorer)
 
 ---
