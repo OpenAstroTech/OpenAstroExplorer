@@ -12,7 +12,7 @@ It features a fully belt driven RA axis, resulting in very low backlash and PE, 
 
 A built-in Auto Polar Alignment (AutoPA) mechanism simplifies setup, making the mount user-friendly for both experienced and new astrophotographers. 
 
-While it doesn’t match the payload capacity of the [OpenAstroMount]([OpenAstroTech/OpenAstroMount](https://github.com/OpenAstroTech/OpenAstroMount)), the OAE excels in convenience and versatility, perfect for grab-and-go sessions or travel setups. (It also doesn't weigh 12kg)
+While it doesn’t match the payload capacity of the [OpenAstroMount](https://github.com/OpenAstroTech/OpenAstroMount), the OAE excels in convenience and versatility, perfect for grab-and-go sessions or travel setups. (It also doesn't weigh 12kg)
 
 Specs
 | Weight | Cost | Payload | Performance (PHD2)
